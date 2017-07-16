@@ -27,6 +27,10 @@ My curated lists of awesome learning resources.
 
 ## Vue
 
+**Plugins/Extensions/Components/Boilerplate/etc**
+
+1. Quasar Framework (hybrid mobile application framework) - http://quasar-framework.org/
+
 ## Riot.js
 
 ## Express.js
