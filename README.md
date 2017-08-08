@@ -31,6 +31,16 @@ My curated lists of awesome learning resources.
 
 1. Quasar Framework (hybrid mobile application framework) - http://quasar-framework.org/
 
+## GraphQL
+
+**Official Documentation**
+
+1. http://graphql.org/
+
+**Courses**
+
+1. https://www.howtographql.com/ (Complete client - server GraphQL tutorial)
+
 ## Riot.js
 
 ## Express.js
@@ -38,4 +48,3 @@ My curated lists of awesome learning resources.
 ## Angular
 
 ## Nativescript
-
