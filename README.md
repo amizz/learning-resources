@@ -41,6 +41,12 @@ My curated lists of awesome learning resources.
 
 1. https://www.howtographql.com/ (Complete client - server GraphQL tutorial)
 
+**Reading Materials**
+
+1. https://scaphold.io/community/blog/querying-relational-data-with-graphql/
+2. https://www.compose.com/articles/postgraphql-postgresql-meets-graphql/?utm_source=hashnode.com
+3. https://www.compose.com/articles/your-sql-schema-is-your-json-api-with-postgrest/
+
 ## Riot.js
 
 ## Express.js
